@@ -40,6 +40,13 @@ N/A
 ## Contributing 
  
 N/A 
+
+## Credits 
+[Live View of Javascript Time Quiz](https://cebrero11.github.io/Javascript-Timed-Quiz/)
+<img width="1367" alt="Screenshot 2023-02-21 at 4 01 40 PM" src="https://user-images.githubusercontent.com/43153891/220486483-105533c8-b446-46b3-aa06-5923483ffa1f.png">
+<img width="1433" alt="Screenshot 2023-02-21 at 4 02 06 PM" src="https://user-images.githubusercontent.com/43153891/220486516-3c96b25b-4137-4406-a4be-fe088003e65b.png">
+<img width="1434" alt="Screenshot 2023-02-21 at 4 02 38 PM" src="https://user-images.githubusercontent.com/43153891/220486539-2f0120f6-b11c-4e05-a6f1-52f4ae224a63.png">
+
  
 ## License 
 
